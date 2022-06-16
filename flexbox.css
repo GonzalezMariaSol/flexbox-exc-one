@@ -1,26 +1,15 @@
 body{
-    background-color: rgb(255, 255, 255);
-    margin: 0%;
+    background-color: rgb(246, 255, 0);
+    margin:auto;
 }
 
 
 
 header{
     background-color: chartreuse;
-    width: 100%;
     height: 7.5em;
     text-align: center;
     line-height: 7em;
-}
-
-
-
-nav{
-    background-color:black ;
-    width: 100%;
-    height: 3em;
-    text-align: center;
-    line-height: 3em;
 }
 
 
@@ -29,8 +18,19 @@ section{
     background-color: rgb(206, 104, 254);
     width: 100%;
     height: 21em;
+}
+aside{
+    background-color: blue;
+    width: 20%;
+    height: 25em;
     text-align: center;
-    line-height:20em; 
+    line-height: 20em;
+}
+p{
+    text-align: center;
+    margin: -15em;
+    width: 100%;
+    margin-left: 8em;
 }
 
 
